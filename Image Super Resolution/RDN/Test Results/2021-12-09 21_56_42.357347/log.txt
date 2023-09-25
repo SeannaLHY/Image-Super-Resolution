@@ -1,0 +1,30 @@
+Image: bird.png; 
+RDN: PSNR: 34.96; SSIM: 0.9944;
+Bicubic: PSNR: 32.62; SSIM: 0.9898;
+Bilinear: PSNR: 31.48; SSIM: 0.9865;
+NearestNeighbour: PSNR: 26.40; SSIM: 0.9574;
+
+Image: butterfly.png; 
+RDN: PSNR: 27.88; SSIM: 0.9818;
+Bicubic: PSNR: 24.51; SSIM: 0.9581;
+Bilinear: PSNR: 23.57; SSIM: 0.9457;
+NearestNeighbour: PSNR: 19.99; SSIM: 0.8837;
+
+Image: head.png; 
+RDN: PSNR: 35.05; SSIM: 0.9963;
+Bicubic: PSNR: 34.17; SSIM: 0.9954;
+Bilinear: PSNR: 33.57; SSIM: 0.9947;
+NearestNeighbour: PSNR: 30.01; SSIM: 0.9882;
+
+Image: woman.png; 
+RDN: PSNR: 31.20; SSIM: 0.9937;
+Bicubic: PSNR: 28.75; SSIM: 0.9886;
+Bilinear: PSNR: 27.80; SSIM: 0.9856;
+NearestNeighbour: PSNR: 23.68; SSIM: 0.9634;
+
+Image: baby.png; 
+RDN: PSNR: 35.59; SSIM: 0.9977;
+Bicubic: PSNR: 34.63; SSIM: 0.9970;
+Bilinear: PSNR: 33.57; SSIM: 0.9961;
+NearestNeighbour: PSNR: 28.54; SSIM: 0.9878;
+
